@@ -1,0 +1,13 @@
+package com.byblosbank.ams;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ByblosbankAmsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ByblosbankAmsApplication.class, args);
+	}
+
+}
